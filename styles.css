@@ -1,0 +1,10 @@
+img {
+    width: 200 px;
+    height: 200 px;
+}
+body {
+    text-align: justify;
+    font-family: "Palatino Linotype";
+    background: black;
+    color: white;
+}
